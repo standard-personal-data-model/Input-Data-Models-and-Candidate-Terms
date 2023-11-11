@@ -1,5 +1,5 @@
 # Input Data Models
-This repository stores existing data models we could refer to in creating a personal data model.
+This repository stores existing data models we could refer to in creating a SPDM.  The Candidate Terms file is where we analyze them and propose new terms for the personal data model. This repo is private (members only) since it is work in progress. 
 
 ## Links to Input Data Models (not yet or otherwise stored in this repo)
   MyData Dictionary https://dictionary.mydata.org/ 
